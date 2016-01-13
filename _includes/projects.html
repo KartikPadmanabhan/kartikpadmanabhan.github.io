@@ -5,7 +5,7 @@
 
         {{ page.content | markdownify }}
 
-        {% for projects in site.data.projectss %}
+        {% for projects in site.data.projects %}
         <h4>
           <strong> {{ projects.platform }}</strong> <small> . {{ projects.language }} . </small>
           <strong> <a href="{{ projects.url }}">{{ projects.name }}</a> </strong>
