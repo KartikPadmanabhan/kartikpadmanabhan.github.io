@@ -1,0 +1,18 @@
+<!-- Projects Section -->
+<section id="{{ page.title }}" class="container content-section text-center">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+
+        {{ page.content | markdownify }}
+
+        {% for projects in site.data.projectss %}
+        <h4>
+          <strong> {{ projects.platform }}</strong> <small> . {{ projects.language }} . </small>
+          <strong> <a href="{{ projects.url }}">{{ projects.name }}</a> </strong>
+          <small><div style="color:white"> {{ projects.description }} </div></small>
+        </h4>
+        {% endfor %}
+
+      </div>
+    </div>
+</section>
