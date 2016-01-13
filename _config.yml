@@ -156,6 +156,7 @@ social:
 
 pages_list:
   About: 'about'
+  Projects: 'projects'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
