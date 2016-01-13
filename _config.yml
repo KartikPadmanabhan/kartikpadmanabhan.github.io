@@ -56,8 +56,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Most of the knowledge in the world in the future is going to be extracted by machines and will reside in machines. ~ Yann LeCun, Director of AI Research at Facebook."
+  - text: "The most interesting types of data are those collected for one purpose and used for another. ~ Erin Shellman, Statistician at Nordstrom Data Lab. "
+  - text: "The best way to become a data scientist is to do data science. ~ Daniel Tunkelang, Head of Search Quality at LinkedIn."
+  - text: "Data scientists are kind of like the new Renaissance folks because data science is inherently multidisciplinary. ~ John Foreman, Data Scientist at Rocket Science."
 
 me-img: "/img/jetpacktocat.png"
 
@@ -119,7 +121,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "kartik.apache@email.here"
 
 ##################
 # Social Buttons #
