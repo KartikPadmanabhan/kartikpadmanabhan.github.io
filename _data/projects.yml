@@ -1,6 +1,11 @@
-- name: MBCircular Progress Bar
-  description: A circular, animatable & highly customizable progress bar from the Interface Builder
-  url: https://github.com/matibot/MBCircularProgressBar
-  language: Objective C
-  platform: iOS
+- name: Activity Prediction
+  description: Personal Activity Prediction From Machine Learning Techniques
+  url: http://kartikpadmanabhan.github.io/mlcoursera/activity_predict.html
+  language: R
+  domain: Data Science 
 
+- name: Regression Modelling
+  description: Modelling On effects of manual and auto transmission for efficient fuel usage
+  url: http://kartikpadmanabhan.github.io/RegressionModelCoursera/mtcars.html 
+  language: R
+  domain: Data Science, Statistics, Regressions
