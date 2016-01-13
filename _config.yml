@@ -124,21 +124,21 @@ timeline-img: "/img/career/kartik.jpeg"
 # Contact #
 ###########
 
-email: "kartik.apache@email.here"
+email: "kartik.apache@gmail.com"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/kartikpadmanabhan"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/KartikPad"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/kartikpadmanabhan"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/address/16DtaauvtWJpBzLb9cJyUWMmnihY58Q43q"
   - title: "rss"
     url: "/feed.xml"
 
