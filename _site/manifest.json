@@ -1,5 +1,5 @@
 {
-  "name": "{ John Smith }",
+  "name": "{ Kartik Padmanabhan }",
   "icons": [
     {
       "src": "/img/web-app/icon-36p.png",
@@ -38,6 +38,6 @@
       "density": 4.0
     }
   ],
-  "start_url": "https://panossakkos.github.io",
+  "start_url": "https://kartikpadmanabhan.github.io",
   "display": "standalone"
 }
