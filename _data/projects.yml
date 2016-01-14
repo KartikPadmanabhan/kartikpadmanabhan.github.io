@@ -9,3 +9,9 @@
   url: http://kartikpadmanabhan.github.io/RegressionModelCoursera/mtcars.html 
   language: R
   domain: Data Science, Statistics, Regressions
+
+- name: Non-Personal Recommenders
+  description: Non-Personal Recommender Systems Using Movie Lens Dataset
+  url: http://kartikpadmanabhan.github.io/Non-Personalized-Recommenders/non_personalized_recommenders.html
+  language: Python 
+  domain: Recommenders, NLP
