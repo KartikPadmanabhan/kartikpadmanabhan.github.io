@@ -7,7 +7,7 @@
 
 - name: Using Methods of Moments To Model Database Metrics
   description: MOM to forecast database performance
-  url: http://kartikpadmanabhan.github.io/mom/method_of_moments.html
+  url: http://kartikpadmanabhan.github.io/mom/mom.html
   language: Python
   domain: Statistics, MLE
 
