@@ -47,3 +47,5 @@ The following is a rule of thumb to be applied for modelling distributions in co
 #### Exponential
 
 	We model time between Poisson events, where these events occur continously and independently.
+
+Adios!
