@@ -8,9 +8,8 @@ tags: ['database adminstration', 'oracle']
 Requirement to enable "parallel_degree_policy = auto" is to run "DBMS_RESOURCE_MANAGER.CALIBRATE_IO". 
 
 CALIBRATE_IO procedure itself impose further requirements like:
-
-* timed_statistics=TRUE
-* ASYNCH_IO=TRUE
+* timed_statistics=TRUE.
+* ASYNCH_IO=TRUE.
 * Run once in RAC, runs from one instance while all instances are opened.
 
 
