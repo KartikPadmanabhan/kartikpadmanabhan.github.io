@@ -11,6 +11,19 @@
   language: Python
   domain: Statistics, MLE
 
+
+- name: Debugging Database Hangs and Deadlocks
+  description: Article to triage Oracle Hangs and Deadlocks for Seasoned Database Experts
+  url: http://kartikpadmanabhan.github.io/Oracle_Work/debugging_hangs.html
+  language: Oracle
+  domain: DBA, Hangs and Deadlocks
+
+- name: Debugging Oracle SGA and PGA Leaks
+  description: Article to triage DB Memory Leaks
+  url: http://kartikpadmanabhan.github.io/Oracle_Work/debugging_leaks.html
+  language: Oracle
+  domain: DBA, Memory Leaks
+
 - name: Non-Personal Recommenders
   description: Non-Personal Recommender Systems Using Movie Lens Dataset
   url: http://kartikpadmanabhan.github.io/Non-Personalized-Recommenders/non_personalized_recommenders.html
