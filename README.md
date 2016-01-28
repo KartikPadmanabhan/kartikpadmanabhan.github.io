@@ -1,1 +1,2 @@
-Personal Website For Kartik Padmanabhan
+Personal Website For Kartik Padmanabhan.
+Uses Jekyll Framework.
